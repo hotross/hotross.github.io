@@ -6,16 +6,13 @@ order: 4
 
 # About Me
 
-Hey, I’m Ross Fiamingo, and I have been working as a technical specialist for the past 15 years. 
+Hi, I’m Ross! I’ve been working as a Technical Support Specialist for the past 15 years.
 
-What exactly does that mean?
+Technical roles can be tricky to explain without diving into the nitty-gritty details, but I like to think of myself as a bridge—connecting complex technology with simple, actionable solutions.
 
-HArdware and software rarely meet in the middle and just work, configurations, drivers missing dependencies, config mismatch. This is where I shine. I have been deploying, configuring and commissioning hardware in difficult environments for a good long while now.
+Electronics can be complicated. Software can be complicated. And when you combine them, it can feel like a nightmare. The real challenge comes when you're isolating the root cause of an issue—whether it's a hardware fault, a software bug, or a configuration problem. Solving these types of complex issues is what excites me most.
 
-
-This website is a place to share some of the projects I’ve worked on — both in the workplace and on personal projects. 
-
-Feel free to explore the site and check out what I’ve been working on. If you’d like to connect or chat about any of the projects, don’t hesitate to reach out!
+I have a deep passion for both hardware and software, and this website is where I’ll be showcasing some of the projects I’m most proud of.
 
 ---
 
