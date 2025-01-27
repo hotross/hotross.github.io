@@ -3,7 +3,7 @@ layout: post
 title: "See Spot Write"
 date: 2025-01-26 07:00:00 +1000
 tags: [cad, robotics, spot]
-categories: [Work]
+categories: [work]
 author: Ross
 image: 
   path: /assets/img/posts/chalk-header.webp
