@@ -36,3 +36,11 @@ I did QA and development in tandem with a developer who made what i think is the
 ![Macropad Assembly](/assets/img/posts/macrokeyboard2.webp)
 
 ![Macropad Assembly](/assets/img/posts/macrokeypadcomplete.webp)
+
+## PCB art
+
+I have played around with making circuitboard art by using the cutout and shapes generating in Altium as parts of the artwork, Here is a lightning detector circuit on a Lightning pokemon
+
+![Jolteon Front](/assets/img/posts/Jolteonfront.webp)
+
+![Jolteon Back](/assets/img/posts/Jolteonback.webp)
